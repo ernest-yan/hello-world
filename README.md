@@ -1,2 +1,3 @@
 # hello-world
-This is for practical
+Hi guys! My profile picture is a girl but I am a boy!
+I like to eat chicken rice!
